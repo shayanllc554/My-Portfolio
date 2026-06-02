@@ -143,6 +143,7 @@ nav a:hover {
 }
 
 .main-div button {
+    margin-top: 15px;
     display: inline-block;
     font-weight: 600;
     font-size: 15px;
